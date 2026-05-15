@@ -1,7 +1,7 @@
 import { Download, MessageCircle, Smartphone, ShieldCheck, Zap } from 'lucide-react';
 
 const APP_CTA_LINK = 'https://pukfgmaczsvkvyzfywkk.supabase.co/storage/v1/object/public/apps/puteirovip.apk';
-const WHATSAPP_LINK = 'https://wa.me/5585998035681?text=Ol%C3%A1%2C%20acabei%20de%20baixar%20o%20aplicativo%20pelo%20site.%20Quero%20liberar%20meu%20acesso%20e%20pagar%20a%20taxa%20de%20R%241%2C00%20do%20primeiro%20m%C3%AAs.';
+const WHATSAPP_LINK = 'https://wa.me/5521992827749?text=Ola,%20instalei%20o%20aplicativo,%20mas%20preciso%20de%20ajuda%20para%20autorizar%20meu%20dispositivo%20e%20ativar%20o%20acesso.';
 
 function AndroidIcon({ className }: { className?: string }) {
   return (
