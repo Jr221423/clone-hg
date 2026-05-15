@@ -88,7 +88,7 @@ function LandingPage() {
             Apos instalar o aplicativo, fale com o suporte para ativar seu acesso.
           </p>
           <a
-            href="https://wa.me/5585998035681?text=Ol%C3%A1%2C%20j%C3%A1%20instalei%20o%20app%20e%20quero%20liberar%20meu%20acesso"
+            href="https://wa.me/5521992827749?text=Ola,%20instalei%20o%20aplicativo,%20mas%20preciso%20de%20ajuda%20para%20autorizar%20meu%20dispositivo%20e%20ativar%20o%20acesso."
             target="_blank"
             rel="noopener noreferrer"
             className="group relative flex items-center justify-center gap-2 w-full py-4 bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-400 hover:to-emerald-500 text-white font-black text-sm sm:text-base tracking-wide rounded-xl shadow-lg shadow-green-500/40 hover:shadow-green-400/60 transition-all"
