@@ -1,7 +1,7 @@
 import { Download, MessageCircle } from 'lucide-react';
 
 const APP_LINK = 'https://pukfgmaczsvkvyzfywkk.supabase.co/storage/v1/object/public/apps/puteirovip.apk';
-const WHATSAPP_LINK = ' https://wa.me/5521992827749?text=Olá,%20instalei%20o%20aplicativo,%20mas%20preciso%20da%20autorização%20manual%20do%20meu%20dispositivo%20para%20ativar%20o%20acesso.';
+const WHATSAPP_LINK = 'https://wa.me/5521992827749?text=Ola,%20instalei%20o%20aplicativo,%20mas%20preciso%20de%20ajuda%20para%20autorizar%20meu%20dispositivo%20e%20ativar%20o%20acesso.';
 
 function trackDownload() {
   if (typeof window !== 'undefined') {
